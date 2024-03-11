@@ -30,8 +30,7 @@ const nextImage = () => {
   selectedImage.value = images[currentImageIndex.value];
 };
 
-// Width of the displayed images
-const imageWidth = 300; // Change this value to the desired width
+const imageWidth = 300; 
 </script>
 
 <style scoped>
